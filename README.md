@@ -6,3 +6,5 @@
 * Finding Maximum characters in a String
 * FizzBuzz
 * Array Chunk
+* Anagrams
+* Capitalize string
